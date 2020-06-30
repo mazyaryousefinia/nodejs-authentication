@@ -6,3 +6,12 @@ this app help you to register a new user with name, unique email and password an
 npm install
 node index.js
 ```
+## using application
+for using this app you can install post man and post method for 
+```
+localhost:3000/api/users/
+```
+and for view user infomation 
+```
+localhost:3000/api/users/current
+```
